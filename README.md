@@ -32,6 +32,7 @@ The following are installed with the requirements file.
 - click - used for CLI docs
 - pytest - for unit testing
 - pytest-cov - testing coverage report
+- requests - For API calls to web addresses
 
 ## Running the App
 
